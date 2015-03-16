@@ -1,0 +1,30 @@
+﻿body
+{
+    width:1000px;
+   margin:0 auto;
+}
+button {
+    margin:10px;
+}
+#catContainer {
+   width:600px;
+   float:left;
+}
+
+#admin {
+    float:right;
+}
+
+#adminContainer {
+    margin-top:75px;
+    width:300px;
+    float:right;
+}
+#catLinks {
+    margin-top:40px;
+    float:left;
+}
+
+#form-container {
+    display: none;
+}
